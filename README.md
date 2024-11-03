@@ -4,7 +4,7 @@ Zhongyu Qiu (zhongyiqiu@gatech.edu), Kangyi Qiu (kqiu37@gatech.edu), [Hanjia Lyu
 
 [Paper](https://arxiv.org/pdf/2409.10760)
 
-[semantics preserving illustration](./semantics_preservation.png)
+![semantics preserving illustration](./semantics_preservation.png)
 
 ## Citation
 ```
