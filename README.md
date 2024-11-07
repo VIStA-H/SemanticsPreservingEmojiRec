@@ -15,3 +15,7 @@ Zhongyu Qiu (zhongyiqiu@gatech.edu), Kangyi Qiu (kqiu37@gatech.edu), [Hanjia Lyu
   year={2024}
 }
 ```
+
+## Related Work
+
+[ICWSM 2024] [Human vs. LMMs: Exploring the Discrepancy in Emoji Interpretation and Usage in Digital Communication](https://ojs.aaai.org/index.php/ICWSM/article/view/31453)
