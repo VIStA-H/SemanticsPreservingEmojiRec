@@ -1,8 +1,16 @@
 # Semantics Preserving Emoji Recommendation with Large Language Models
 
-Zhongyu Qiu (zhongyiqiu@gatech.edu), Kangyi Qiu (kqiu37@gatech.edu), [Hanjia Lyu](https://brucelyu17.github.io/) (hlyu5@ur.rochester.edu), [Wei Xiong](https://wxiong.me/) (wxiongur@gmail.com), [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/) (jluo@cs.rochester.edu)
+[Semantics Preserving Emoji Recommendation with Large Language Models](https://arxiv.org/pdf/2409.10760)
 
-[Paper](https://arxiv.org/pdf/2409.10760)
+Zhongyu Qiu, Kangyi Qiu, [Hanjia Lyu](https://brucelyu17.github.io/), [Wei Xiong](https://wxiong.me/), [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
+
+Accepted for publication in [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
+
+**Contact**
+
+Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
+
+
 
 ![semantics preserving illustration](./semantic_preservation.png)
 
