@@ -12,7 +12,7 @@ Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
 
 
 
-![semantics preserving illustration](./semantic_preservation.png)
+![semantics preserving illustration](./semantics_preservation.png)
 
 ## Citation
 ```
