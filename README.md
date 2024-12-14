@@ -2,7 +2,7 @@
 
 [Semantics Preserving Emoji Recommendation with Large Language Models](https://arxiv.org/pdf/2409.10760)
 
-Zhongyu Qiu, Kangyi Qiu, [Hanjia Lyu](https://brucelyu17.github.io/), [Wei Xiong](https://wxiong.me/), [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
+Zhongyi Qiu, Kangyi Qiu, [Hanjia Lyu](https://brucelyu17.github.io/), [Wei Xiong](https://wxiong.me/), [Jiebo Luo](https://www.cs.rochester.edu/u/jluo/)
 
 Accepted for publication in [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~ieeebigdata2024/) 
 
