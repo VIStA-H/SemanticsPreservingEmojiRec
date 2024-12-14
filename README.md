@@ -14,6 +14,34 @@ Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
 
 ![semantics preserving illustration](./semantics_preservation.png)
 
+
+
+
+## Environment Setup for Emoji Recommendation Project
+
+### Prerequisites
+1. Ensure **Conda** is installed. [Install Conda](https://docs.conda.io/en/latest/miniconda.html) if not already available.
+2. Ensure `requirements.txt` is in the same directory as `setup_env.sh`.
+
+### Steps to Set Up the Environment
+
+1. **Run the setup script**:  
+   Use the following command to run the setup script:
+   ```bash
+   bash setup_env.sh
+   ```
+   Or:
+   ```bash
+   sh setup_env.sh
+   ```
+   This creates the emoji_recommendation environment, installs Python 3.10, and installs dependencies from requirements.txt.
+
+2. **Activate the environment**:
+    ```bash
+   conda activate emoji_recommendation
+   ```
+
+
 ## Citation
 ```
 @article{qiu2024semantics,
