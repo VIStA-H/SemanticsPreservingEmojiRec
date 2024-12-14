@@ -8,7 +8,7 @@ Accepted for publication in [IEEE BigData 2024](https://www3.cs.stonybrook.edu/~
 
 **Contact**
 
-Hanjia Lyu (hlyu5@ur.rochester.edu), Jiebo Luo (jluo@cs.rochester.edu)
+Zhongyi Qiu (zhongyiqiu@gatech.edu), Kangyi Qiu (kqiu37@gatech.edu), Hanjia Lyu (hlyu5@ur.rochester.edu), Wei Xiong (wxiongur@gmail.com), Jiebo Luo (jluo@cs.rochester.edu)
 
 
 
